@@ -14,7 +14,9 @@ it’s also about knowing what you already exposed.
 
 Sometimes the smallest clue leads to the biggest find.
 
-
+Fun fact:  
+Many challenges are solved not by tools,  
+but by observation.
 
 
 

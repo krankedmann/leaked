@@ -12,6 +12,10 @@ OSINT is more about patience than hacking.
 Cybersecurity isn’t only about breaking in,  
 it’s also about knowing what you already exposed.
 
+Sometimes the smallest clue leads to the biggest find.
+
+
+
 
 
 
